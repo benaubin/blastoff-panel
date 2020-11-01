@@ -1,6 +1,10 @@
 # blastoff-panel
 Watch as your app blasts off!
 
+```
+yarn add -D blastoff-panel
+```
+
 #### Example:
 
 ```
